@@ -16,7 +16,7 @@
 
 	// Configure tool-specific properties.
 	// "customizations": {},
-"customizations": {
+	"customizations": {
 		"vscode": {
 			"extensions": [
 				"esbenp.prettier-vscode",
@@ -30,7 +30,8 @@
 			}
 			
 		}
-           }
+		
+	 }
 		
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
